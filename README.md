@@ -1,3 +1,6 @@
 # Yo!
 
-Frontend Learning I am.
+
+
+- 	:rofl:  Frontend Learning I am.	:alien:
+- 	:see_no_evil::hear_no_evil::speak_no_evil:
